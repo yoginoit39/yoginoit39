@@ -4,10 +4,10 @@
 
 👨‍💻 Actively seeking Software/Full-Stack Development opportunities 
 
-💡 Constantly exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
-🌍  I'm based in Chicago, Illinois.
-✉️  You can contact me at lakhaniy540@gmail.com
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!
+💡 Constantly exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.<br>
+🌍  I'm based in Chicago, Illinois.<br>
+✉️  You can contact me at lakhaniy540@gmail.com<br>
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!<br>
 
 ## Skills
 Programming Languages
