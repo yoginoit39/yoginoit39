@@ -34,7 +34,7 @@ GCP, AWS, Microsoft Azure, Docker, Kubernetes, Git, GitHub
 ## My GitHub Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yoginoit39&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=yoginoit39&show_icons=true&theme=merko"
     media="(prefers-color-scheme: dark)"
   />
   <source
