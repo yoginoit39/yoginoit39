@@ -7,7 +7,7 @@
      <li> 💡 Constantly exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.</li><br>
      <li>🌍  I'm based in Chicago, Illinois.</li><br>
      <li>You can contact me at lakhaniy540@gmail.com</li><br>
-     <li>Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!<li><br>
+     <li>Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!</li><br>
 </ul>     
 
 
