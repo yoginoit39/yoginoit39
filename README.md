@@ -6,22 +6,22 @@
 <ul>
      <li> 💡 Constantly exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.</li><br>
      <li>🌍  I'm based in Chicago, Illinois.</li><br>
-<li>You can contact me at <a href="mailto:lakhaniy540@gmail.com" class="underline">lakhaniy540@gmail.com</a></li>
+     <li>You can contact me at <a href="mailto:lakhaniy540@gmail.com" class="underline">lakhaniy540@gmail.com</a></li><br>
      <li>Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!</li><br>
 </ul>     
 
 
 ## Skills
-**Programming Languages**
+**Programming Languages**<br>
 Java, Python, JavaScript, SQL
 
-**Web Technologies and Frameworks**
+**Web Technologies and Frameworks**<br>
 HTML, CSS, Spring Boot, Hibernate, REST API, HTTP, SOAP, React, Node (Express)
 
-**Databases and OS**
+**Databases and OS**<br>
 MySQL, MongoDB, PostgreSQL, Linux, Unix
 
-**Cloud Technologies and Version Control**
+**Cloud Technologies and Version Control**<br>
 GCP, AWS, Microsoft Azure, Docker, Kubernetes, Git, GitHub
 
 ## Socials
