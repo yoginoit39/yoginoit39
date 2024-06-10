@@ -23,7 +23,9 @@ Cloud Technologies and Version Control
 GCP, AWS, Microsoft Azure, Docker, Kubernetes, Git, GitHub
 
 ## Socials
-<a class="linkedin-link" href="https://www.linkedin.com/in/yogesh-lakhani-756b87ab/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon"></a>
+<a style="display: flex; align-items: center; text-decoration: none; color: #0077B5; font-family: Arial, sans-serif; font-size: 16px;" href="https://www.linkedin.com/in/yogesh-lakhani-756b87ab/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" style="width: 24px; height: 24px; margin-right: 8px;">
+    </a>
 
 ## My GitHub Stats
 ![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoginoit39&show_icons=true&theme=transparent)
