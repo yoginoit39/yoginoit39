@@ -1,13 +1,4 @@
-5418
-
-11.93 to add for nisarg Patel 
-To add Walgreens sailesh allergy personal and body wash common 
-
-
-
-
-
-## Hi there 👋
+## Hi there. I'm Yogesh Lakhani 👋
 
 🚀 Ambitious engineer with a passion for problem solving in computer science and on a mission to drive innovation in the world of software development.
 
@@ -21,16 +12,16 @@ To add Walgreens sailesh allergy personal and body wash common
 
 
 ## Skills
-Programming Languages
+**Programming Languages**
 Java, Python, JavaScript, SQL
 
-Web Technologies and Frameworks
+**Web Technologies and Frameworks**
 HTML, CSS, Spring Boot, Hibernate, REST API, HTTP, SOAP, React, Node (Express)
 
-Databases and OS
+**Databases and OS**
 MySQL, MongoDB, PostgreSQL, Linux, Unix
 
-Cloud Technologies and Version Control
+**Cloud Technologies and Version Control**
 GCP, AWS, Microsoft Azure, Docker, Kubernetes, Git, GitHub
 
 ## Socials
@@ -51,7 +42,7 @@ GCP, AWS, Microsoft Azure, Docker, Kubernetes, Git, GitHub
   <img src="https://github-readme-stats.vercel.app/api?username=yoginoit39&show_icons=true" />
 </picture>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Yogesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yoginoit39&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 
