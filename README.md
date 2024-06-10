@@ -1,5 +1,7 @@
 ## Hi there. I'm Yogesh Lakhani 👋
 
+## 💼 Software Developer | 🎓 Pursuing Master's in Computer Science at DePaul University
+
 🚀 Ambitious engineer with a passion for problem solving in computer science and on a mission to drive innovation in the world of software development.
 
 👨‍💻 Actively seeking Software/Full-Stack Development opportunities 
