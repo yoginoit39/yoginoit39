@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**yoginoit39/yoginoit39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Ambitious engineer with a passion for problem solving in computer science and on a mission to drive innovation in the world of software development.
 
-Here are some ideas to get you started:
+👨‍💻 Actively seeking Software/Full-Stack Development opportunities 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Constantly exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
+🌍  I'm based in Chicago, Illinois.
+✉️  You can contact me at lakhaniy540@gmail.com
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!
+
+## Skills
+Programming Languages
+Java, Python, JavaScript, SQL
+
+Web Technologies and Frameworks
+HTML, CSS, Spring Boot, Hibernate, REST API, HTTP, SOAP, React, Node (Express)
+
+Databases and OS
+MySQL, MongoDB, PostgreSQL, Linux, Unix
+
+Cloud Technologies and Version Control
+GCP, AWS, Microsoft Azure, Docker, Kubernetes, Git, GitHub
+
+## Socials
+<a class="linkedin-link" href="https://www.linkedin.com/in/yogesh-lakhani-756b87ab/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon"></a>
+
+## My GitHub Stats
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoginoit39&show_icons=true&theme=transparent)
+
+
+
+
+
+
+
+
