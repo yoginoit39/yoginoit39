@@ -1,6 +1,6 @@
 ## Hi there. I'm Yogesh Lakhani 👋
 
-## 💼 Software Developer | 🎓 Pursuing Master's in Computer Science at DePaul University
+Personal-Site : https://portfolio-psi-weld-tl3yno7br5.vercel.app/
 
 🚀 Ambitious engineer with a passion for problem solving in computer science and on a mission to drive innovation in the world of software development.
 
