@@ -1,6 +1,6 @@
 ## Hi there. I'm Yogesh Lakhani 👋
 
-Personal-Site : https://portfolio-psi-weld-tl3yno7br5.vercel.app/
+Personal-Site : https://portfolio-d7ci.vercel.app/
 
 🚀 Ambitious engineer with a passion for problem solving in computer science and on a mission to drive innovation in the world of software development.
 
